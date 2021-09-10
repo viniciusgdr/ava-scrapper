@@ -1,5 +1,5 @@
 # ava-scrapper
-Scrapper de videos do ava.sae.digital!
+Scrapper de assistir videos do ava.sae.digital!
 
 
 # Instalação
