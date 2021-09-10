@@ -1,0 +1,23 @@
+{
+  "name": "ava-scrapper",
+  "version": "1.0.0",
+  "description": "Scrapper Ava Portal",
+  "main": "ava.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusgdr/ava-scrapper.git"
+  },
+  "author": "viniciusgdr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciusgdr/ava-scrapper/issues"
+  },
+  "homepage": "https://github.com/viniciusgdr/ava-scrapper#readme",
+  "dependencies": {
+    "cli-color": "^2.0.0",
+    "puppeteer": "^10.2.0"
+  }
+}
